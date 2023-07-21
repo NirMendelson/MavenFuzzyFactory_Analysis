@@ -16,3 +16,14 @@ The company exclusively sells these products through their website. The database
 Let's begin by examining the key metrics from last November-December, including the number of website sessions, number of orders, and conversion rate, while comparing them with previous months.
 
 ![Sessions, Orders and Conversion Rate](/Pictures/B.png)
+
+Next, we'll delve deeper into factors affecting the conversion rate and identify insights that can help increase it.
+
+### UTM Source
+Maven Fuzzy Factory uses five different UTM sources to track their website traffic:
+1.	Organic search
+2.	Brand ads on search engines
+3.	Nonbrand ads on search engines
+4.	Direct type-in
+5.	Social media ads
+We'll analyze the conversion rate for each UTM source and determine which ones perform the best.
