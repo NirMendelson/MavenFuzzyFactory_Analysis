@@ -28,3 +28,5 @@ Maven Fuzzy Factory uses five different UTM sources to track their website traff
 5.	Social media ads
 
 We'll analyze the conversion rate for each UTM source and determine which ones perform the best.
+
+![Sessions, Orders and Conversion Rate](/Pictures/C.png)
