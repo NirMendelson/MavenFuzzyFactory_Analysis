@@ -10,4 +10,4 @@ The database contains Maven Fuzzy Factory's sales data for their stuffed animal 
 4.	The Hudson River Mini Bear (launched on the 05.02.2014)
 The company exclusively sells these products through their website. The database comprises six tables: order_item_refund, order_item, orders, products, website_pageviews, and website_sessions.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Maven Fuzzy Factory Entity Relationship Diagram](/main/Pictures/Entity Relationship Diagram.png)
