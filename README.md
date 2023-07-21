@@ -15,7 +15,7 @@ The company exclusively sells these products through their website. The database
 ## Data Analysis
 Let's begin by examining the key metrics from last November-December, including the number of website sessions, number of orders, and conversion rate, while comparing them with previous months.
 
-![Sessions, Orders and Conversion Rate](/Pictures/B.png)
+![Sessions, Orders and Conversion Rate](/Pictures/B2.png)
 
 Next, we'll delve deeper into factors affecting the conversion rate and identify insights that can help increase it.
 
