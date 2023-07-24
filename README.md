@@ -35,6 +35,7 @@ We'll analyze the conversion rate for each UTM source and determine which ones p
 ![Sessions, Orders and Conversion Rate](/Pictures/Sessions_Orders_Conv_Rate_by_UTM_Source.png)
 
 Insights on UTM Sources:
+
 •	It's predicted that 'organic search,' 'brand ads,' and 'direct type-in' will have a high conversion rate since customers actively enter the website during these interactions.
 
 •	Most orders come from nonbrand ads, which target customers unfamiliar with our company.
