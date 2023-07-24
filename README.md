@@ -93,3 +93,24 @@ Let's examine the conversion funnel of the sales process, starting from the prod
 
 ![Sessions, Orders and Conversion Rate](/Pictures/Website_Conversion_Funnel_from_Products_Catalog_Page.png)
 
+We can observe that we lose a significant number of potential customers during the product page-cart process, which is a crucial moment that determines whether they make a purchase or not. Similarly, we also experience considerable drop-offs at the billing page, as this is where customers need to complete the payment. Given these reasons, increasing the conversion rate in these stages may be quite challenging.
+
+Instead, I recommend shifting our focus to the other pages where the process can be smoother, potentially resulting in a higher conversion rate. By improving the user experience on these pages, we can better retain potential customers and encourage them to proceed further in the sales process.
+
+Analyzing the specific numbers, we find that 16% of potential customers leave at the products catalog page, 32% at the cart page, and 19% at the shipping page. Excluding the specific product page and billing page, the cart page has the highest bounce rate. To address this issue, I suggest designing several alternative cart pages and conducting A/B testing to optimize the UI/UX and reduce the bounce rate effectively. This approach will likely lead to better conversion rates and improved customer retention.
+
+Next, we'll analyze the conversion funnel of each product to identify any significant differences between them.
+
+![Sessions, Orders and Conversion Rate](/Pictures/Conversion_Funnel_of_Each_Product.png)
+
+The conversion rates from the cart to the thank you page are very similar for all products. However, when comparing the conversion rates from the product page to the cart, we observe significant differences. Specifically, 65% of users who view the Hudson River Mini Bear proceed to the cart page, while only 42.7% of users who view the Mr. Fuzzy page continue to the cart page. The Love Bear page and Birthday Sugar Panda fall within this range.
+
+I believe that the price differences between the two products contribute to these variations in conversion rates. Let's examine the prices and costs of each product to gain further insights.
+
+![Sessions, Orders and Conversion Rate](/Pictures/Product_Selling_Price_and_Profit_Comparison.png)
+
+The prices help explain why the Hudson River Mini Bear's conversion rate is the highest (as it's significantly cheaper than the other products). However, it doesn't clarify why The Original Mr. Fuzzy product has the lowest conversion rate. For instance, The Forever Love Bear is more expensive than Mr. Fuzzy, yet it boasts a much higher conversion rate (57.3%). This suggests that the issue might lie in the UI/UX of the Mr. Fuzzy product page. I recommend delving deeper into that aspect to identify potential optimizations.
+
+Let's explore the cross-selling trends to identify which products sell well together.
+
+
