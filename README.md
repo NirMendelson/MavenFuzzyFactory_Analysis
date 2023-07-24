@@ -67,6 +67,10 @@ On the other hand, g_ad_2 performs the worst with a conversion rate of 7.4%. Thi
 
 ![Sessions, Orders and Conversion Rate](/Pictures/Search_Engine_Ads_Comparison_Mobile.png)
 
+The conversion rate of the mobile ads is notably lower compared to the desktop versions. There could be several possible explanations, but the primary one may be the mobile UI/UX not being as effective as the desktop version. To verify this hypothesis, I recommend conducting A/B testing with different versions of the website and analyzing the results. This will help us understand and address any issues related to mobile user experience and improve the overall conversion rate for mobile users.
 
+### Website Pageviews
+
+Let's determine the total number of pages in the website.
 
 
