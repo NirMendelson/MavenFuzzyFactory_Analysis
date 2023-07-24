@@ -57,3 +57,7 @@ Social media ads were launched in August 2014, and during that initial month, we
 Let's revisit the UTM sources. A significant portion of our orders comes from nonbrand ads. Now, let's delve deeper into this aspect. We have nonbrand ads on both Bsearch and Gsearch. We'll analyze and compare their conversion rates to identify which one performs the best.
 
 ![Sessions, Orders and Conversion Rate](/Pictures/Sessions_Orders_Conv_Rate_by_Search_Engine.png)
+
+There isn't much difference between the two; both have a fairly high conversion rate. Search engines offer four different ads, each having a brand and a nonbrand version. Let's determine which ad performs the best among them. We will first analyze the desktop versions and then move on to the mobile ones.
+
+
