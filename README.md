@@ -60,4 +60,13 @@ Let's revisit the UTM sources. A significant portion of our orders comes from no
 
 There isn't much difference between the two; both have a fairly high conversion rate. Search engines offer four different ads, each having a brand and a nonbrand version. Let's determine which ad performs the best among them. We will first analyze the desktop versions and then move on to the mobile ones.
 
+![Sessions, Orders and Conversion Rate](/Pictures/Search_Engine_Ads_Comparison_Desktop.png)
+
+b_ad_2 performs the best with a conversion rate of 11.8%. However, there aren't many sessions coming through this ad. To capitalize on its high conversion rate, I recommend increasing the volume of this ad.
+On the other hand, g_ad_2 performs the worst with a conversion rate of 7.4%. This is surprising as brand ads typically have higher conversion rates. I would like to obtain the ad report to analyze this specific ad further and identify insights that can optimize its conversion rate.
+
+![Sessions, Orders and Conversion Rate](/Pictures/Search_Engine_Ads_Comparison_Mobile.png)
+
+
+
 
