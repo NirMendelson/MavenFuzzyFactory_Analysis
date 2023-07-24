@@ -73,4 +73,23 @@ The conversion rate of the mobile ads is notably lower compared to the desktop v
 
 Let's determine the total number of pages in the website.
 
+![Sessions, Orders and Conversion Rate](/Pictures/Website_Pages_by_Pageviews.png)
+
+The website pages are organized based on the user's journey, starting from the Home and external landing pages, leading to the Products section, and finally culminating in the completion of the purchase.
+
+The website consists of 10 pages, including Home, Products, Cart, Shipping, Billing, and Thank You pages, along with a dedicated page for each product. Additionally, there are 3 landing pages external to the main website, accessible through ads that direct users to these landing pages before leading them back to the website. 
+
+The Products catalog receives the highest number of pageviews, which is understandable as all the landing pages and the home page direct users there.
+
+Now, let's focus on analyzing the landing pages and determine the percentage of visitors who proceed to the main website after visiting each landing page.
+
+![Sessions, Orders and Conversion Rate](/Pictures/Bounced_Sessions_Percentage_by_Landing_Page.png)
+
+Lander 2 has the highest bounce rate, while lander 5 has the lowest. The difference between them is significant, at 24%, indicating that the performance varies considerably between the two. As a lower bounce rate enhances the potential for selling more products, I recommend discontinuing the use of lander 2.
+
+To optimize our landing pages further, I propose scheduling a meeting to investigate what contributed to the success of lander 5 and identify the factors that led to a higher bounce rate for lander 2. By understanding these insights, we can make necessary improvements and aim to minimize the bounce rate as much as possible across all our landing pages.
+
+Let's examine the conversion funnel of the sales process, starting from the products catalog page and ending with the thank you for your order page.
+
+![Sessions, Orders and Conversion Rate](/Pictures/Website_Conversion_Funnel_from_Products_Catalog_Page.png)
 
