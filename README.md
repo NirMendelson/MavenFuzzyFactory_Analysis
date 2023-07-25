@@ -107,10 +107,10 @@ The conversion rates from the cart to the thank you page are very similar for al
 
 I believe that the price differences between the two products contribute to these variations in conversion rates. Let's examine the prices and costs of each product to gain further insights.
 
-![Product_Selling_Price_and_Profit_Comparison](/Pictures/Product_Selling_Price_and_Profit_Comparison.png)
+![Product_Selling_Price_and_Profit_Comparison](/Pictures/Product_Selling_Price_and_Profit_Comparison_dots.png)
 
 The prices help explain why the Hudson River Mini Bear's conversion rate is the highest (as it's significantly cheaper than the other products). However, it doesn't clarify why The Original Mr. Fuzzy product has the lowest conversion rate. For instance, The Forever Love Bear is more expensive than Mr. Fuzzy, yet it boasts a much higher conversion rate (57.3%). This suggests that the issue might lie in the UI/UX of the Mr. Fuzzy product page. I recommend delving deeper into that aspect to identify potential optimizations.
 
 Let's explore the cross-selling trends to identify which products sell well together.
 
-![Product Cross-Selling Analysis](/Pictures/Product Cross-Selling Analysis.png)
+![Product Cross-Selling Analysis](/Pictures/Product_Cross-Selling_Analysis.png)
