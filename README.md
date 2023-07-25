@@ -114,3 +114,5 @@ The prices help explain why the Hudson River Mini Bear's conversion rate is the 
 Let's explore the cross-selling trends to identify which products sell well together.
 
 ![Product Cross-Selling Analysis](/Pictures/Product_Cross-Selling_Analysis.png)
+
+Among those who purchase Mr. Fuzzy, 11.7% also add the Birthday Sugar Panda to their order, while 8.4% of customers who buy the Birthday Sugar Panda add Mr. Fuzzy to their order. This indicates a strong selling relationship between the two products. To further promote sales, I recommend offering a discount for customers who buy both products together.
