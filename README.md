@@ -60,12 +60,12 @@ Let's revisit the UTM sources. A significant portion of our orders comes from no
 
 There isn't much difference between the two; both have a fairly high conversion rate. Search engines offer four different ads, each having a brand and a nonbrand version. Let's determine which ad performs the best among them. We will first analyze the desktop versions and then move on to the mobile ones.
 
-![Search_Engine_Ads_Comparison_Desktop](/Pictures/Search_Engine_Ads_Comparison_Desktop.png)
+![Search_Engine_Ads_Comparison_Desktop](/Pictures/Search_Engine_Ads_Comparison_Desktop_.png)
 
 b_ad_2 performs the best with a conversion rate of 11.8%. However, there aren't many sessions coming through this ad. To capitalize on its high conversion rate, I recommend increasing the volume of this ad.
 On the other hand, g_ad_2 performs the worst with a conversion rate of 7.4%. This is surprising as brand ads typically have higher conversion rates. I would like to obtain the ad report to analyze this specific ad further and identify insights that can optimize its conversion rate.
 
-![Search_Engine_Ads_Comparison_Mobile](/Pictures/Search_Engine_Ads_Comparison_Mobile.png)
+![Search_Engine_Ads_Comparison_Mobile](/Pictures/Search_Engine_Ads_Comparison_Mobile_.png)
 
 The conversion rate of the mobile ads is notably lower compared to the desktop versions. There could be several possible explanations, but the primary one may be the mobile UI/UX not being as effective as the desktop version. To verify this hypothesis, I recommend conducting A/B testing with different versions of the website and analyzing the results. This will help us understand and address any issues related to mobile user experience and improve the overall conversion rate for mobile users.
 
