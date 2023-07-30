@@ -83,7 +83,7 @@ The Products catalog receives the highest number of pageviews, which is understa
 
 Now, let's focus on analyzing the landing pages and determine the percentage of visitors who proceed to the main website after visiting each landing page.
 
-![Bounced_Sessions_Percentage_by_Landing_Page](/Pictures/Bounced_Sessions_Percentage_by_Landing_Page.png)
+![Bounced_Sessions_Percentage_by_Landing_Page](/Pictures/Bounced_Sessions_Percentage_by_Landing_Page2.png)
 
 Lander 2 has the highest bounce rate, while lander 5 has the lowest. The difference between them is significant, at 24%, indicating that the performance varies considerably between the two. As a lower bounce rate enhances the potential for selling more products, I recommend discontinuing the use of lander 2.
 
